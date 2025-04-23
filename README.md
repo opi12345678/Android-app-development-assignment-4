@@ -1,0 +1,1 @@
+A simple and colorful Flutter app to help users track their daily moods and jot down thoughts. The app features a clean UI, emoji-based mood selection, and a history view to reflect on past entries — all wrapped in a vibrant gradient background with a bottom navigation bar for smooth navigation.
